@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HotelHaven/static/css/main.2b395fc5.css",
+    "main.js": "/HotelHaven/static/js/main.f5163a3b.js",
+    "index.html": "/HotelHaven/index.html",
+    "main.2b395fc5.css.map": "/HotelHaven/static/css/main.2b395fc5.css.map",
+    "main.f5163a3b.js.map": "/HotelHaven/static/js/main.f5163a3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b395fc5.css",
+    "static/js/main.f5163a3b.js"
+  ]
+}
